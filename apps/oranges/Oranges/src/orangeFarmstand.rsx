@@ -1,0 +1,20 @@
+<Screen
+  id="orangeFarmstand"
+  _customShortcuts={[]}
+  _hashParams={[]}
+  _searchParams={[]}
+  browserTitle=""
+  title={null}
+  urlSlug=""
+  uuid="8677a3d1-6f54-4976-9440-9d7e7d92d056"
+>
+  <Frame
+    id="$main3"
+    enableFullBleed={false}
+    isHiddenOnDesktop={false}
+    isHiddenOnMobile={false}
+    padding="8px 12px"
+    sticky={null}
+    type="main"
+  />
+</Screen>

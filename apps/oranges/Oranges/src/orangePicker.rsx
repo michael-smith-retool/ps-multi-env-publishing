@@ -1,0 +1,20 @@
+<Screen
+  id="orangePicker"
+  _customShortcuts={[]}
+  _hashParams={[]}
+  _searchParams={[]}
+  browserTitle=""
+  title={null}
+  urlSlug=""
+  uuid="b94a0908-1d3d-4398-b64f-6e684a1b317a"
+>
+  <Frame
+    id="$main2"
+    enableFullBleed={false}
+    isHiddenOnDesktop={false}
+    isHiddenOnMobile={false}
+    padding="8px 12px"
+    sticky={null}
+    type="main"
+  />
+</Screen>
