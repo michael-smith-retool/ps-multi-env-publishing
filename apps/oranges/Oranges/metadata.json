@@ -1,0 +1,23 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "09582f88-4ae6-11f0-8339-3f96070d5ebd",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "orangeTreePlanter": {
+          "array": []
+        },
+        "orangePicker": {
+          "array": []
+        },
+        "orangeFarmstand": {
+          "array": []
+        }
+      }
+    },
+    "rootScreen": "orangeTreePlanter",
+    "version": "3.223.0",
+    "experimentalDataTabEnabled": true
+  }
+}
