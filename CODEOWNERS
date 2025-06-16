@@ -1,0 +1,11 @@
+# Defualt rule for your "Admin" team
+* michael-smith-retool
+
+# Per Project Rule if distinct owners
+/apps/apples/**  team-apple-engineers
+/workflows/apples/**  team-apple-engineers
+/resources/apples/**  team-apple-engineers
+
+/apps/oranges/**     team-orange-engineers
+/workflows/oranges/**  team-orange-engineers
+/resources/oranges/**  team-orange-engineers
