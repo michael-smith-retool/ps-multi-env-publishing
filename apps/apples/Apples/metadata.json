@@ -1,0 +1,23 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "c8b0c1ac-4ae5-11f0-afc7-e7b36c8110b0",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "applePicker": {
+          "array": []
+        },
+        "applePlanter": {
+          "array": []
+        },
+        "appleStore": {
+          "array": []
+        }
+      }
+    },
+    "rootScreen": "applePicker",
+    "version": "3.223.0",
+    "experimentalDataTabEnabled": true
+  }
+}

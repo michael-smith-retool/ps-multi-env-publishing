@@ -1,0 +1,20 @@
+<Screen
+  id="applePlanter"
+  _customShortcuts={[]}
+  _hashParams={[]}
+  _searchParams={[]}
+  browserTitle=""
+  title={null}
+  urlSlug=""
+  uuid="f8101009-6a0f-4165-a26f-112beb1f9c5c"
+>
+  <Frame
+    id="$main2"
+    enableFullBleed={false}
+    isHiddenOnDesktop={false}
+    isHiddenOnMobile={false}
+    padding="8px 12px"
+    sticky={null}
+    type="main"
+  />
+</Screen>

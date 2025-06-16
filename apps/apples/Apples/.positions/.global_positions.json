@@ -1,0 +1,18 @@
+{
+  "avatar1": {
+    "rowGroup": "footer",
+    "subcontainer": "sidebarFrame1",
+    "height": 0.2,
+    "width": 1
+  },
+  "brandedNavbar1": {
+    "subcontainer": "header",
+    "height": 0.2,
+    "width": 12
+  },
+  "navigation1": {
+    "subcontainer": "sidebarFrame1",
+    "height": 0.8,
+    "width": 1
+  }
+}

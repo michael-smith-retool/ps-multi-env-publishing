@@ -1,0 +1,20 @@
+<Screen
+  id="appleStore"
+  _customShortcuts={[]}
+  _hashParams={[]}
+  _searchParams={[]}
+  browserTitle=""
+  title={null}
+  urlSlug=""
+  uuid="d2c88161-24f1-4ba8-b1e0-06093ebf4158"
+>
+  <Frame
+    id="$main3"
+    enableFullBleed={false}
+    isHiddenOnDesktop={false}
+    isHiddenOnMobile={false}
+    padding="8px 12px"
+    sticky={null}
+    type="main"
+  />
+</Screen>

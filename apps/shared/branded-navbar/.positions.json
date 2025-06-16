@@ -1,0 +1,91 @@
+{
+  "appNameDisplay": {
+    "container": "moduleContainer",
+    "col": 2,
+    "height": 1,
+    "width": 4
+  },
+  "fileButton1": {
+    "subcontainer": "modalFrame1",
+    "row": 5.2,
+    "height": 1
+  },
+  "form1": {
+    "subcontainer": "modalFrame1",
+    "col": 4,
+    "height": 0.2,
+    "width": 8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "formButton1": {
+    "container": "form1",
+    "rowGroup": "footer",
+    "col": 4,
+    "height": 1,
+    "width": 8
+  },
+  "formTitle1": {
+    "container": "form1",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "icon1": {
+    "container": "moduleContainer",
+    "col": 11,
+    "height": 1,
+    "width": 1
+  },
+  "icon2": {
+    "container": "form1",
+    "row": 2.6,
+    "col": 2,
+    "height": 0.8,
+    "width": 2
+  },
+  "image1": {
+    "container": "moduleContainer",
+    "height": 1,
+    "width": 2
+  },
+  "modalCloseButton1": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame1",
+    "col": 9,
+    "height": 1
+  },
+  "modalTitle1": {
+    "rowGroup": "header",
+    "subcontainer": "modalFrame1",
+    "height": 0.6,
+    "width": 9
+  },
+  "moduleContainer": {
+    "height": 1.2,
+    "width": 12
+  },
+  "requestType": {
+    "container": "form1",
+    "height": 2.4,
+    "width": 4
+  },
+  "text1": {
+    "subcontainer": "modalFrame1",
+    "height": 0.6,
+    "width": 4
+  },
+  "textArea1": {
+    "container": "form1",
+    "row": 0,
+    "col": 4,
+    "height": 1,
+    "width": 8
+  }
+}
