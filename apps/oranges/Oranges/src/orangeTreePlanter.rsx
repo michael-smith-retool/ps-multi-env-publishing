@@ -17,7 +17,7 @@
     type="main"
   >
     <Table
-      id="table1"
+      id="oranges"
       cellSelection="none"
       clearChangesetOnSave={true}
       data={
@@ -51,7 +51,7 @@
         format="avatar"
         groupAggregationMode="none"
         key="email"
-        label="User"
+        label="Oranges"
         position="center"
         referenceId="name"
         size={250}
@@ -145,7 +145,7 @@
         <Event
           event="clickToolbar"
           method="exportData"
-          pluginId="table1"
+          pluginId="oranges"
           type="widget"
           waitMs="0"
           waitType="debounce"
@@ -160,7 +160,7 @@
         <Event
           event="clickToolbar"
           method="refresh"
-          pluginId="table1"
+          pluginId="oranges"
           type="widget"
           waitMs="0"
           waitType="debounce"
